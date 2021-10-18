@@ -38,8 +38,8 @@ public class Demo {
 	}
 	
 	
-	//dodati local i global parametri
-	//getterin settering
+	//dodadi local i global parametri
+	//gettering settering
 	
 	
 

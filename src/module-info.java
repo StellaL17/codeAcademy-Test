@@ -1,2 +1,2 @@
-module dog {
+module demo {
 }
