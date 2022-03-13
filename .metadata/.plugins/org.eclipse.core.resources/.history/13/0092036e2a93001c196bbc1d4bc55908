@@ -1,0 +1,16 @@
+package com.example.student.enumeration;
+
+public enum BookName {
+	
+	INTRODUTIONTOALGORITHMS,
+	EFFECIVEJAVA,
+	CLEANCODE,
+	JAVAFUNDAMENTALS,
+	MATH,
+	PHYSICS,
+	THECODEBOOK,
+	DISCRETEMATHEMATICS,
+	
+	
+
+}
