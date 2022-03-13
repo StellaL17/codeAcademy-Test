@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student studentId="student1">
+		<name>Aleksandar</name>
+		<surname>Acev</surname>
+		<index>1234/2021</index>
+		<gpa>9.0</gpa>
+		<address>
+			<street>Partizanska</street>
+			<number>20</number>
+			<city>Skopje</city>
+		</address>
+		<phone>
+			<mobile>077123456</mobile>
+			<work>034654321</work>
+			<home>034123456</home>
+		</phone>
+		<emails>aleksandar@email.com</emails>
+		<emails>a.acev@gmail.com</emails>
+		<emails>acev@email.com</emails>
+		<subjects>
+			<subject>
+				<name>Matematika1</name>
+				<schedule>Ponedelnik, Sreda, Petok</schedule>
+				<books>
+					<book>
+						<name>Funkcionalni redovi</name>
+						<author>Goran Stanic</author>
+					</book>
+				</books>
+				<proffessor>
+					<name>Aleksandar</name>
+					<surname>Smilevski</surname>
+					<email>asmilevski@email.com</email>
+				</proffessor>
+			</subject>
+			<subject>
+				<name>Programiranje</name>
+				<schedule>Ponedelnik, Sreda</schedule>
+				<books>
+					<book>
+						<name>Java fundamentals</name>
+						<author>Goran Stanic</author>
+					</book>
+				</books>
+				<proffessor>
+					<name>Dimitar</name>
+					<surname>Josifov</surname>
+					<email>jdimitar@gmail.com</email>
+				</proffessor>
+			</subject>
+		</subjects>
+		<grades>
+			<grade>
+				<subject>
+					<name>Matematika1</name>
+					<schedule>Ponedelnik, Sreda, Petok</schedule>
+					<books>
+						<book>
+							<name>Funkcionalni redovi</name>
+							<author>Goran Stanic</author>
+						</book>
+					</books>
+					<proffessor>
+						<name>Aleksandar</name>
+						<surname>Smilevski</surname>
+						<email>asmilevski@hotmail.com</email>
+					</proffessor>
+				</subject>
+				<studentIndex>123.2021</studentIndex>
+				<grade>8</grade>
+			</grade>
+			<grade>
+				<subject>
+					<name>Programiranje</name>
+					<schedule>Ponedelnik, Sreda</schedule>
+					<books>
+						<book>
+							<name>Java fundamentals</name>
+							<author>Goran Stanic</author>
+						</book>
+					</books>
+					<proffessor>
+						<name>Dimitar</name>
+						<surname>Josifov</surname>
+						<email>jdimitar@hotmail.com</email>
+					</proffessor>
+				</subject>
+				<studentIndex>123.2021</studentIndex>
+				<grade>10</grade>
+			</grade>
+		</grades>
+		<gpa>9.0</gpa>
+	</student>
+</students>

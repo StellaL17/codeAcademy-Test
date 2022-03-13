@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articles>
+    <article id="100001">
+        <name>Coca cola</name>
+		<type>drink</type>
+        <price>50mkd</price>
+		<weight>2l</weight>
+		<quantity>1</quantity>
+    </article>
+    <article id="200001">
+        <name>Bread</name>
+		<type>food</type>
+        <price>30mkd</price>
+		<weight>500g</weight>
+		<quantity>1</quantity>
+    </article>    
+	<article id="100002">
+        <name>Mineral water</name>
+		<type>drink</type>
+        <price>20mkd</price>
+		<weight>1.5l</weight>
+		<quantity>1</quantity>
+    </article>    
+	<article id="200002">
+        <name>Meat</name>
+		<type>food</type>
+        <price>320mkd</price>
+		<weight>1kg</weight>
+		<quantity>0.850</quantity>
+    </article>
+	<article id="200003">
+        <name>Banana</name>
+		<type>food</type>
+        <price>60mkd</price>
+		<weight>1kg</weight>
+		<quantity>0.5</quantity>
+    </article>
+	<article id="200004">
+        <name>Banana</name>
+		<type>food</type>
+        <price>60mkd</price>
+		<weight>1kg</weight>
+		<quantity>0.5</quantity>
+    </article>
+</articles>

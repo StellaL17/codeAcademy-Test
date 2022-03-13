@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+	<name>Dimitar</name>
+	<surname>Josifov</surname>
+	<phone>0711111111</phone>
+	<email>jdimitar@gmil.com</email>
+	
+	<listOfAddress>
+		<address name="doma">
+			<street>Partizanska</street>
+			<number>19</number>
+			<city>Skopje</city>
+		</address>
+		<address name="rabota">
+			<street>Partizanska</street>
+			<number>19</number>
+			<city>Skopje</city>
+		</address>	
+	</listOfAddress>
+	
+</user>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newProducts>
+    <product id="500001">
+        <name>Gin</name>
+        <type>newProduct</type>
+        <price>850mkd</price>
+        <weight>0.750g</weight>
+        <quantity>1</quantity>
+    </product>
+    <product id="500002">
+        <name>Cognac</name>
+        <type>newProduct</type>
+        <price>1050mkd</price>
+        <weight>0.750g</weight>
+        <quantity>1</quantity>
+    </product>
+    <product id="500003">
+        <name>Votka</name>
+        <type>newProduct</type>
+        <price>800mkd</price>
+        <weight>0.750g</weight>
+        <quantity>1</quantity>
+    </product>
+    <product id="500004">
+        <name>Whiskey</name>
+        <type>newProduct</type>
+        <price>1250mkd</price>
+        <weight>0.750g</weight>
+        <quantity>1</quantity>
+    </product>
+</newProducts>

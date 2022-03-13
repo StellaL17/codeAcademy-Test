@@ -1,0 +1,7 @@
+name=Dimitar
+surname=Josifov
+phone=123456
+email=jdimitar@gmail.com
+address.city=Skopje
+address.number=62
+address.street=Partizanska

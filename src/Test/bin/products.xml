@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+	<product id="100001">
+        <name>Pepsi</name>
+		<type>drink</type>
+        <price>50MKD</price>
+		<weight>1.5kg</weight>
+		<quantity>1</quantity>
+    </product>
+    <product id="100002">
+        <name>Coca Cola</name>
+		<type>drink</type>
+        <price>65MKD</price>
+		<weight>2kg</weight>
+		<quantity>1</quantity>
+    </product>
+    <product id="200001">
+        <name>Bread</name>
+		<type>food</type>
+        <price>25MKD</price>
+		<weight>500kg</weight>
+		<quantity>1</quantity>
+    </product>    
+	<product id="100003">
+        <name>Mineral Water</name>
+		<type>drink</type>
+        <price>20MKD</price>
+		<weight>1.5kg</weight>
+		<quantity>1</quantity>
+    </product>    
+	<product id="200002">
+        <name>Meat</name>
+		<type>food</type>
+        <price>320MKD</price>
+		<weight>1kg</weight>
+		<quantity>0.850</quantity>
+    </product>
+	<product id="200003">
+        <name>Banana</name>
+		<type>fruit</type>
+        <price>60MKD</price>
+		<weight>1kg</weight>
+		<quantity>0.5</quantity>
+    </product>
+	<product id="200004">
+        <name>Orange</name>
+		<type>fruit</type>
+        <price>57MKD</price>
+		<weight>1kg</weight>
+		<quantity>0.677</quantity>
+    </product>
+	<product id="200005">
+        <name>Banana</name>
+		<type>fruit</type>
+        <price>60MKD</price>
+		<weight>1kg</weight>
+		<quantity>0.75</quantity>
+    </product>
+	<product id="200006">
+        <name>Strawberry</name>
+		<type>fruit</type>
+        <price>200MKD</price>
+		<weight>1kg</weight>
+		<quantity>0.45</quantity>
+    </product>
+	<product id="300001">
+        <name>Skopsko</name>
+		<type>pack</type>
+        <price>250MKD</price>
+		<weight>0.5kg</weight>
+		<quantity>1</quantity>
+    </product>
+</products>
