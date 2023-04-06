@@ -30,7 +30,7 @@ public class Grapes {
 		     res = kg * math;
 		     System.out.println("For " + kg + "kg grapes, the price is " + res + " denars" );
 	      } else {
-				System.out.println("Invalid input");
+	    	 System.out.println("Invalid input");
 		} 
 	}
 
